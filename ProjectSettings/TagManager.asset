@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - DialogueController
+  - Walls
+  - Hidden
+  - StartingPoint
+  - GroundCheck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 384681939
+    locked: 0
+  - name: Front Background
+    uniqueID: 2531288089
+    locked: 0
+  - name: Underground
+    uniqueID: 567108725
+    locked: 0
+  - name: Trees
+    uniqueID: 3250362737
+    locked: 0
+  - name: Grass
+    uniqueID: 3263303973
+    locked: 0
+  - name: Floor
+    uniqueID: 3429792375
+    locked: 0
+  - name: Foreground
+    uniqueID: 2277389589
+    locked: 0
+  - name: Player
+    uniqueID: 594164045
+    locked: 0
+  - name: Particles
+    uniqueID: 1851840715
+    locked: 0
+  - name: Perspective
+    uniqueID: 1283273188
+    locked: 0
+  - name: Top
+    uniqueID: 1502599955
+    locked: 0
